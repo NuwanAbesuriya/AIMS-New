@@ -99,7 +99,7 @@ include_once("../view/navigationBar1.php");
             <img src="../image/a1.jpg" class="img-fluid h-100" alt=""> <!-- h-100 kiynne photo eke full height eka-->
         </div>
         <div class="col-lg-6">
-            <h1 class="text-uppercase text-left">AGRICULTURE INFORMATION MANAGEMENT SYSTEM</h1>
+            <h1 class="text-uppercase text-left">ICULTURE INFORMATION MANAGEMENT SYSTEM</h1>
             <p class="text-justify">
             The Agriculture Information Management System (AIMS) is a pioneering technological solution designed to enhance the efficiency, 
             productivity, and sustainability of paddy farming practices in Sooriyawawa / Meegahajadura ,Sri Lanka. It is a comprehensive digital 
